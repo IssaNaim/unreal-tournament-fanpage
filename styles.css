@@ -388,6 +388,10 @@ textarea{
     margin-bottom: 25px;
 }
 
+.map-container audio{
+    width: 100%;
+}
+
 .maps-heading{
     text-align: center;
     color:rgb(19, 19, 19);
